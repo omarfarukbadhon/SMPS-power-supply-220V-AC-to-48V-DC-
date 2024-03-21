@@ -1,0 +1,15 @@
+Added Component: Designator=C14(FP-RCE1K1-2_5-MFG)
+Added Component: Designator=C15(FP-RCE0K1-MFG)
+Added Component: Designator=D8(FP-HLMP-1719-MFG)
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetC15_1
+Added Pin To Net: NetName=NetC14_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC14_1 Pin=R17-3
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=R16-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetD8_1 Pin=R15-1
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=R17-1
+Added Net: Name=NetD8_2

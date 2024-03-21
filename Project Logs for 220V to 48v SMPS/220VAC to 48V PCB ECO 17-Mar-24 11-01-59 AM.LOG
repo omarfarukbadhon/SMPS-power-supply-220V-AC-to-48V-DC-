@@ -1,0 +1,4 @@
+Added Component: Designator=C11(FP-RAD-TH-D_10_0_5-L_20_2-MFG)
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC11_2

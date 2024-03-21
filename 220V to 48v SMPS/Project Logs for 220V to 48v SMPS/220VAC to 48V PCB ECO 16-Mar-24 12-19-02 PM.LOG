@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=C6 Old Footprint=FP-RDE0P1-MFG New Footprint=FP-RDE0P1-MFG
+Added Component: Designator=T1(WE-LLCR_ETD34)
+Add component (AddParameter): Name = "Current Rating"; Value = "3.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "260mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "120kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "600µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "36mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Frequency"; Value = "120kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "360V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "33936698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power"; Value = "150W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "150W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "36mm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TO-220-3_L10.5-W4.8-P2.54-L)
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VBsemi(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "2SK2645-01MR-VB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "2SK2645-01MR-VB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C19190251"; VariantName = "[No Variations]"
+Added Component: Designator=X1(760895451)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/components/products/datasheet/760895451.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "760895451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-760895451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/760895451?qs=AAveGqk956GT0cHMbfJl9A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-6
+Added Net: Name=NetU1_1

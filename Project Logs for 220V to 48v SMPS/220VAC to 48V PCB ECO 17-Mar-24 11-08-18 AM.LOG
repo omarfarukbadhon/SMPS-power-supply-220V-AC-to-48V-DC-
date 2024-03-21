@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=Q1 Old Footprint=FP-JAN2N2222A-MFG New Footprint=FP-JAN2N2222A-MFG
+Added Component: Designator=CN?(Terminal Block P5.08-2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??/Receptacle-Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191225/C3697_6E7B45CD3FD3DA2CDF6A2CE707235E10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "WJ2EDGRC-5.08-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5.08mm 1x2P ??:1 ??P?:2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KANGNEX(??????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "WJ2EDGRC-5.08-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Bend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WJ2EDGRC-5.08-2P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_2 Pin=CN?-1
+Added Pin To Net: NetName=GND Pin=CN?-2

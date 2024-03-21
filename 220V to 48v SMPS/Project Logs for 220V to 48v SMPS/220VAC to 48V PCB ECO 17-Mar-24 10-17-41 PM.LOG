@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D8 Old Footprint=FP-HLMP-1719-MFG New Footprint=FP-HLMP-1719-MFG
+Added Component: Designator=C?(FP-RCE1K1-2_5-MFG)
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Added Pin To Net: NetName=NetC?_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC?_1 Pin=R17-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=R16-2
+Added Net: Name=NetC?_2

@@ -1,0 +1,12 @@
+Change Component Comment : Designator=F1 Old Comment=0218010.HXP New Comment=Fuse
+Change Component Comment : Designator=L1 Old Comment=7448013501 New Comment=CMF
+Change Component Comment : Designator=R1 Old Comment=NTPAA2R2LDNB0 New Comment=NTC
+Change Component Comment : Designator=C1 Old Comment=R46KF310040P1M New Comment=0.1uF
+Change Component Comment : Designator=C2 Old Comment=R46KF310040P1M New Comment=0.1uF
+Change Component Library : Designator=C1 Old Library=Altium Content Vault New Library=0.1uF 275VAC cap.SchLib
+Change Component Library : Designator=C2 Old Library=Altium Content Vault New Library=0.1uF 275VAC cap.SchLib
+Change Component Library : Designator=F1 Old Library=Altium Content Vault New Library=10A 250V fuse.SchLib
+Change Component Library : Designator=L1 Old Library=Altium Content Vault New Library=Common mode choke.SchLib
+Change Component Library : Designator=R1 Old Library=Altium Content Vault New Library=Thermistor NTC 265V.SchLib
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2

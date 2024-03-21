@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R9 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R10 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R11 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Added Component: Designator=U3(LTST-LTV-817-4)
+Add Pin To Net: Unknown Pin: Pin U3-3

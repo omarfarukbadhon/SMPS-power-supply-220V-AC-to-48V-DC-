@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C15 Old Footprint=FP-RCE1K1-2_5-MFG New Footprint=FP-RCE1K1-2_5-MFG
+Added Component: Designator=C15()
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2

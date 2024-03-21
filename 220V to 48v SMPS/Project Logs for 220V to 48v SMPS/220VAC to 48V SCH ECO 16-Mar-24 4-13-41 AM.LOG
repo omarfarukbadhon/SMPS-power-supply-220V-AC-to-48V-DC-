@@ -1,0 +1,6 @@
+Update Managed Component C1 From CMP-00212-22103502-1[0.1uF] To CMP-00212-22103502-1[0.1uF] in 220VAC to 48V.SchDoc
+Update Managed Component C2 From CMP-00212-22103502-1[0.1uF] To CMP-00212-22103502-1[0.1uF] in 220VAC to 48V.SchDoc
+Replace Part CN1 WJ2EDGRC-5.08-2P in C:\Users\Hp\Documents\Altium\220V to 48v SMPS\Schematics\220VAC to 48V.SchDoc with WJ2EDGRC-5.08-2P from Terminal Block P5.08-2P.SchLib
+Update Managed Component F1 From CMP-08605-000046-1[Fuse] To CMP-08605-000046-1[Fuse] in 220VAC to 48V.SchDoc
+Update Managed Component L1 From CMP-1371-00007-3[CMF] To CMP-1371-00007-3[CMF] in 220VAC to 48V.SchDoc
+Update Managed Component R1 From CMP-06022-000112-1[NTC] To CMP-06022-000112-1[NTC] in 220VAC to 48V.SchDoc

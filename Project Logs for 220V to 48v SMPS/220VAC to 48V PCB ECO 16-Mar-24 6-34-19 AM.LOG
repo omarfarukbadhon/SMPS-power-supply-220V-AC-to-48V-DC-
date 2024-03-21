@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D1 Old Footprint=FP-1N4007-MFG New Footprint=FP-1N4007-MFG
+Change Component Footprint: Designator=D2 Old Footprint=FP-1N4007-MFG New Footprint=FP-1N4007-MFG
+Change Component Footprint: Designator=D3 Old Footprint=FP-1N4007-MFG New Footprint=FP-1N4007-MFG
+Change Component Footprint: Designator=D4 Old Footprint=FP-1N4007-MFG New Footprint=FP-1N4007-MFG
+Added Component: Designator=C?(FP-BXW18X30-MFG)
+Add Pin To Net: Unknown Pin: Pin C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=D2-1
+Added Pin To Net: NetName=NetC?_2 Pin=D4-1
+Added Net: Name=NetC?_2

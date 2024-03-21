@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=R11-3
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-2
+Change Component Description : Designator=D1 Old Description=MBR20100CT-E3/4W Dual Common-Cathode High-Voltage Schottky Rectifier New Description=MBR20100CT-E3/4W Dual Common-Cathode High-Voltage Schottky Rectifier | DIODE ARRAY SCHOTTKY 100V TO220
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=C5-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R4-2
+Added Pin To Net: NetName=NetC3_1 Pin=T1-7
+Change Net Name : Old Net Name=NetC3_1 New Net Name=275V DC
+Added Pin To Net: NetName=ISO_GND Pin=C6-2
+Added Pin To Net: NetName=ISO_GND Pin=C7-2
+Added Pin To Net: NetName=ISO_GND Pin=C8-1
+Added Pin To Net: NetName=ISO_GND Pin=C9-2
+Added Pin To Net: NetName=ISO_GND Pin=CN1-2
+Added Pin To Net: NetName=ISO_GND Pin=R11-3
+Added Pin To Net: NetName=ISO_GND Pin=R13-2
+Added Pin To Net: NetName=ISO_GND Pin=T1-1
+Added Pin To Net: NetName=ISO_GND Pin=T1-2
+Added Net: Name=ISO_GND
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D5-1
+Added Net: Name=NetD3_1

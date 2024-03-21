@@ -1,0 +1,35 @@
+Change Component Comment : Designator=C11 Old Comment= 100/25 New Comment=100/25
+Change Component Comment : Designator=C5 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C6 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C7 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C9 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C12 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C13 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C14 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C16 Old Comment= 104 New Comment=104
+Change Component Comment : Designator=C8 Old Comment= 104/275 New Comment=104/275
+Change Component Comment : Designator=C10 Old Comment= 104/275 New Comment=104/275
+Change Component Comment : Designator=C15 Old Comment= 104/275 New Comment=104/275
+Change Component Description : Designator=D5 Old Description=MBR20100CT-E3/4W Dual Common-Cathode High-Voltage Schottky Rectifier New Description=MBR20100CT-E3/4W Dual Common-Cathode High-Voltage Schottky Rectifier | DIODE ARRAY SCHOTTKY 100V TO220
+Added Component: Designator=R1(FP-NTPAA-MFG)
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2

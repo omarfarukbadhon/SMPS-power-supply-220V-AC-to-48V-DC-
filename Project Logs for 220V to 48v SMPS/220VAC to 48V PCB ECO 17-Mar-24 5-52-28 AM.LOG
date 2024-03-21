@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C8 Old Footprint=FP-RDE0P1-MFG New Footprint=FP-RDE0P1-MFG
+Added Component: Designator=C7(FP-RCE0DB-MFG)
+Added Component: Designator=R3(FP-RC6432-IPC_C)
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2

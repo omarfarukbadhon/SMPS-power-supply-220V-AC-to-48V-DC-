@@ -1,0 +1,5 @@
+Change Footprint: Footprint Not Found FP-RAD-TH-D_6_3_0_5-L_11-MFG
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:P0008A
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D4-1
+Added Net: Name=NetD2_1

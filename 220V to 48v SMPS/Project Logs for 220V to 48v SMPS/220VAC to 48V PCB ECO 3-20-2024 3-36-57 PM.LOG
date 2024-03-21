@@ -1,0 +1,5 @@
+Added Component: Designator=C17(C-1)
+Added Pin To Net: NetName=Neutral Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=R6-2
+Added Net: Name=NetC17_2

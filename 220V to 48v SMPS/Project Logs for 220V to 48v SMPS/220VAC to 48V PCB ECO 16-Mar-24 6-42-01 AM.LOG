@@ -1,0 +1,5 @@
+Added Component: Designator=C3(FP-BXW18X30-MFG)
+Add Pin To Net: Unknown Pin: Pin C3-1
+Added Pin To Net: NetName=DC 450V Pin=D2-1
+Added Pin To Net: NetName=DC 450V Pin=D4-1
+Added Net: Name=DC 450V

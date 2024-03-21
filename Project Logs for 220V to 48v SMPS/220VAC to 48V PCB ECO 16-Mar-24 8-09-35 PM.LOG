@@ -1,0 +1,13 @@
+Change Component Comment : Designator=U1 Old Comment=2SK2645-01MR-VB New Comment=K2645
+Added Component: Designator=C7(FP-RCE0DB-MFG)
+Added Component: Designator=R3(FP-RC6432-IPC_C)
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin R3-2
+Change Net Name : Old Net Name=450V New Net Name=275V DC
+Added Pin To Net: NetName=NetC7_1 Pin=U1-4
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=U1-2
+Added Net: Name=NetT1_2

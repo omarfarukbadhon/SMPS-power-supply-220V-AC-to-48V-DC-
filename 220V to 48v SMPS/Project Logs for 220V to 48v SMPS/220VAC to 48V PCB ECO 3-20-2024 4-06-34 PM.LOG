@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C13 Old Footprint=C-15 New Footprint=C-1
+Change Component Comment : Designator=C13 Old Comment=104/275 New Comment=104
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R10-2
+Added Pin To Net: NetName=NetC13_2 Pin=U1-4
+Added Net: Name=NetC13_2
